@@ -1,0 +1,7 @@
+Mark M 6 11.0
+Any F 7 10.5
+Sam M 7 9.2
+Kate F 6 10.4
+Sara F 7 10.9
+Tom M 6 9.7
+Panam F 7 9.4
